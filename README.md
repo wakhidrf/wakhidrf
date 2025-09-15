@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Wakhidrf!
+## Hi there 👋 I'm Wakhid R.F.!
 
 Currently observing the chaos of the internet from a safe distance. Occasionally, I push a commit.
 
