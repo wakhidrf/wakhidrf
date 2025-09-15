@@ -5,6 +5,8 @@
 ![Wakhidrf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wakhidrf&show_icons=true&theme=radical)
 [![Wakhidrf's Trophies](https://github-profile-trophy.vercel.app/?username=wakhidrf&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
+---
+
 ### 💻 My Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wakhidrf&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
