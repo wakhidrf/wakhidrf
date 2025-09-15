@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I'm Wakhidrf!
+
+### 📊 GitHub Stats
+
+![Wakhidrf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wakhidrf&show_icons=true&theme=radical)
+[![Wakhidrf's Trophies](https://github-profile-trophy.vercel.app/?username=wakhidrf&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 💻 My Top Languages
 
